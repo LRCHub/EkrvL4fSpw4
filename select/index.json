@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Where Them Girls At",
+  "base_artist": "David Guetta",
+  "createdAt": "2025-12-04T03:17:37.780935Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Where Them Girls At",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/01_Where_Them_Girls_At_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Where Them Girls At",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/02_Where_Them_Girls_At_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Where Them Girls At (Final)",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/03_Where_Them_Girls_At_(Final)_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Where Them Girls At",
+      "artist": "Megan Thee Stallion",
+      "has_synced": false,
+      "path": "select/04_Where_Them_Girls_At_Megan_Thee_Stallion.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Where Them Girls At",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/05_Where_Them_Girls_At_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Where Them Girls At",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/06_Where_Them_Girls_At_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Where Them Girls At",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/07_Where_Them_Girls_At_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Where Them Girls At",
+      "artist": "Megan Thee Stallion",
+      "has_synced": false,
+      "path": "select/08_Where_Them_Girls_At_Megan_Thee_Stallion.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Where Them Girls At",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/09_Where_Them_Girls_At_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Where Them Girls At",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/10_Where_Them_Girls_At_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Where Them Girls At",
+      "artist": "Video • Megan Thee Stallion",
+      "has_synced": true,
+      "path": "select/11_Where_Them_Girls_At_Video_•_Megan_Thee_Stallion.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "David Guetta - Where Them Girls At (Audio)",
+      "artist": "aa",
+      "has_synced": true,
+      "path": "select/12_David_Guetta_-_Where_Them_Girls_At_(Audio)_aa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Where Them Girls At",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/13_Where_Them_Girls_At_David_Guetta.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Where Them Girls At",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/pl_01_Where_Them_Girls_At_David_Guetta.txt"
+    }
+  ]
+}
